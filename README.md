@@ -3,14 +3,6 @@
 
 This project utilizes logistic regression to predict the presence of heart disease in individuals based on various health parameters. It demonstrates the entire process of working with a heart disease dataset, including data cleaning, preprocessing, model training using logistic regression, and evaluation of the model's performance.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Dataset](#dataset)
-- [Usage](#usage)
-- [Features](#features)
-- [Model Training](#model-training)
-- [Evaluation](#evaluation)
 
 ## Installation
 
