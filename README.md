@@ -1,8 +1,6 @@
-```markdown
 # Predicting Heart Disease Using Logistic Regression
 
 This project utilizes logistic regression to predict the presence of heart disease in individuals based on various health parameters. It demonstrates the entire process of working with a heart disease dataset, including data cleaning, preprocessing, model training using logistic regression, and evaluation of the model's performance.
-
 
 ## Installation
 
@@ -11,6 +9,8 @@ Before running this project, you'll need Python installed on your system. The pr
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 ```
+
+These libraries are essential for data manipulation, statistical operations, machine learning model implementation, and visualization.
 
 ## Dataset
 
@@ -44,8 +44,11 @@ To use this project:
 ## Features
 
 - **Data Cleaning and Preprocessing**: The notebook begins with cleaning the dataset, handling missing values, and removing duplicates. Continuous features are scaled to ensure they are on a similar scale.
+
 - **Data Analysis**: Exploratory data analysis is conducted to understand the relationships between features and the target variable.
+
 - **Model Implementation**: Logistic regression is implemented from scratch, using a sigmoid function for the prediction of binary outcomes.
+
 - **Feature Selection**: Techniques for selecting the most influential features for heart disease prediction.
 
 ## Model Training
